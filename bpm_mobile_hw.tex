@@ -1,0 +1,70 @@
+\documentclass{sig-alternate-ipsn13}
+
+\begin{document}
+
+\title{BPM: Bluetooth Parking Manager}
+
+\numberofauthors{2}
+
+\author{
+% 1st. author
+\alignauthor
+Wookjong Kwak\\
+       \affaddr{Carnegie Mellon University Silicon Valley}\\
+       \affaddr{Moffett Field}\\
+       \affaddr{California 94035}\\
+       \email{wookjong.kwak@sv.cmu.edu}
+% 2nd. author
+\alignauthor
+Sungho Cho\\
+       \affaddr{Carnegie Mellon University Silicon Valley}\\
+       \affaddr{Moffett Field}\\
+       \affaddr{California 94035}\\
+       \email{sungho.cho@sv.cmu.edu}
+}
+
+\maketitle
+\begin{abstract}
+
+The goal of our parking lot gate opening system is providing seamless authentication without additional user effort and additional device. We propose to use Bluetooth technology as a communication channel with smartphone as a control device. Given that most smartphones have embedded Bluetooth module, and most users bring their device in everyday life, especially when driving, the combination of Bluetooth with smartphone is a strong candidate for our solution. We will also use different sensors to verify location of the user to eliminate possibilities of granting access to unauthorized users.
+
+\end{abstract}
+
+\keywords{Android, Arduino, Bluetooth}
+
+\input{sec_introduction}
+\input{sec_related_work}
+\input{sec_system_overview}
+\input{sec_system_details}
+\input{sec_evaluation}
+\input{sec_conclusion}
+
+%\begin{figure}
+%\centering
+%\epsfig{file=fly.eps}
+%\caption{A sample black and white graphic (.eps format).}
+%\label{fig:example}
+%\end{figure}
+
+%
+% The following two commands are all you need in the
+% initial runs of your .tex file to
+% produce the bibliography for the citations in your paper.
+\bibliographystyle{abbrv}
+\bibliography{sigproc}  % sigproc.bib is the name of the Bibliography in this case
+% You must have a proper ".bib" file
+%  and remember to run:
+% latex bibtex latex latex
+% to resolve all references
+%
+% ACM needs 'a single self-contained file'!
+%
+%APPENDICES are optional
+%\balancecolumns
+%\appendix
+%Appendix A
+
+%Appendix goes here.
+
+% That's all folks!
+\end{document}
