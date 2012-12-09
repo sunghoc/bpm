@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.27)  8 DEC 2012 17:48
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.27)  9 DEC 2012 00:47
 entering extended mode
 **bpm_mobile_hw.tex
-("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\IPSN_13_latex_example\bpm_mobile_hw.tex"
+("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\bpm_mobile_hw.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
 , bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
@@ -10,7 +10,7 @@ ian, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, icelandic, 
 erman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, s
 lovenian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishm
 ax, welsh, loaded.
-("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\IPSN_13_latex_example\sig-alternate-ipsn13.cls"
+("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\sig-alternate-ipsn13.cls"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 
@@ -297,7 +297,7 @@ LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ae\t1aer.fd"
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 )))
-("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\IPSN_13_latex_example\bpm_mobile_hw.aux")
+("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\bpm_mobile_hw.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -341,8 +341,8 @@ LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
 
-("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\IPSN_13_latex_example\bpm_mobile_hw.out")
-("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\IPSN_13_latex_example\bpm_mobile_hw.out")
+("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\bpm_mobile_hw.out")
+("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\bpm_mobile_hw.out")
 \@outlinefile=\write3
 LaTeX Font Info:    Try loading font information for U+msa on input line 26.
 
@@ -358,53 +358,62 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 26.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Overfull \hbox (5.92206pt too wide) in paragraph at lines 29--30
-\T1/aer/m/n/10 tooth tech-nol-ogy as a com-mu-ni-ca-tion chan-nel with smart-
+("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\sec_introduction.tex")
+("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\sec_related_work.tex"
+Overfull \hbox (3.29219pt too wide) in paragraph at lines 7--1
+\T1/aer/m/n/10 garages us-ing Blue-tooth com-mu-ni-ca-tion chan-nel be-tween
  []
 
-("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\IPSN_13_latex_example\sec_introduction.tex")
-("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\IPSN_13_latex_example\sec_related_work.tex")
-("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\IPSN_13_latex_example\sec_system_overview.tex")
-("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\IPSN_13_latex_example\sec_system_details.tex")
-("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\IPSN_13_latex_example\sec_evaluation.tex")
-("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\IPSN_13_latex_example\sec_conclusion.tex")
-("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\IPSN_13_latex_example\bpm_mobile_hw.bbl")
+
+Overfull \hbox (1.04144pt too wide) in paragraph at lines 7--1
+\T1/aer/m/n/10 quires at-tach-ing a Blue-tooth mod-ule to the cur-rent park-
+ []
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+] <figure/alpr.jpg, id=52, 513.92pt x 373.395pt>
+File: figure/alpr.jpg Graphic file (type jpg)
+
+<use figure/alpr.jpg>
+Package pdftex.def Info: figure/alpr.jpg used on input line 7.
+(pdftex.def)             Requested size: 216.81pt x 157.52562pt.
+)
+("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\sec_system_overview.tex")
+("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\sec_system_details.tex")
+("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\sec_evaluation.tex")
+("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\sec_conclusion.tex")
+("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\bpm_mobile_hw.bbl")
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
- [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
-]
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.70 \end{document}
+                    [2 <C:/Users/Administrator/Documents/MSIT-IS/18-644 Mobile HW/18644_Final_Report/figure/alpr.jpg>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
 
-("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\IPSN_13_latex_example\bpm_mobile_hw.aux")
+("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\bpm_mobile_hw.aux")
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 70.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
-
-
-Package rerunfilecheck Warning: File `bpm_mobile_hw.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `bpm_mobile_hw.out':
-(rerunfilecheck)             Before: C8721961A6AE51AD1392E60F50575D96;289
-(rerunfilecheck)             After:  E7EFA6823ADFD254991E5E18478E2D63;335.
+Package rerunfilecheck Info: File `bpm_mobile_hw.out' has not changed.
+(rerunfilecheck)             Checksum: E7EFA6823ADFD254991E5E18478E2D63;335.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
  ) 
 Here is how much of TeX's memory you used:
- 6051 strings out of 494045
- 86450 string characters out of 3148362
- 165501 words of memory out of 3000000
- 9253 multiletter control sequences out of 15000+200000
- 42359 words of font info for 50 fonts, out of 3000000 for 9000
+ 6078 strings out of 494045
+ 86644 string characters out of 3148362
+ 169751 words of memory out of 3000000
+ 9266 multiletter control sequences out of 15000+200000
+ 45503 words of font info for 56 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 41i,10n,29p,844b,322s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,10n,29p,1140b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on bpm_mobile_hw.pdf (1 page, 73277 bytes).
+Output written on bpm_mobile_hw.pdf (2 pages, 127711 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 85 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
 

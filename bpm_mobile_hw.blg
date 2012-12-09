@@ -1,5 +1,8 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: bpm_mobile_hw.aux
 The style file: abbrv.bst
-I found no \citation commands---while reading file bpm_mobile_hw.aux
 Database file #1: sigproc.bib
-(There was 1 error message)
+Warning--to sort, need author or key in national
+Warning--to sort, need author or key in ibisworld
+Warning--to sort, need author or key in alpr
+Warning--to sort, need author or key in lpr
+(There were 4 warnings)

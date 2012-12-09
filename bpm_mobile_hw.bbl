@@ -1,3 +1,19 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{alpr}
+Automatic license plate recognition.
+\newblock http://www.motorola.com/ALPR.
+
+\bibitem{lpr}
+License plate recognition.
+\newblock http://www.licenseplaterecognition.com/.
+
+\bibitem{national}
+Parking in perspective: The size and scope of parking in america.
+\newblock http://www.npapark.org/.
+
+\bibitem{ibisworld}
+Parking lots and garages in the us: Market research report.
+\newblock http://www.ibisworld.com/.
 
 \end{thebibliography}
