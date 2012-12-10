@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.27)  9 DEC 2012 13:28
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.27)  9 DEC 2012 17:55
 entering extended mode
 **bpm_mobile_hw.tex
 ("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\bpm_mobile_hw.tex"
@@ -372,7 +372,7 @@ Overfull \hbox (1.04144pt too wide) in paragraph at lines 7--1
 [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-] <figure/alpr.jpg, id=52, 513.92pt x 373.395pt>
+] <figure/alpr.jpg, id=60, 513.92pt x 373.395pt>
 File: figure/alpr.jpg Graphic file (type jpg)
 
 <use figure/alpr.jpg>
@@ -380,7 +380,7 @@ Package pdftex.def Info: figure/alpr.jpg used on input line 7.
 (pdftex.def)             Requested size: 216.81pt x 157.52562pt.
 )
 ("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\sec_system_overview.tex"
-<figure/sys_overview.png, id=54, 365.86688pt x 235.63031pt>
+<figure/sys_overview.png, id=62, 365.86688pt x 235.63031pt>
 File: figure/sys_overview.png Graphic file (type png)
  <use figure/sys_overview.png>
 Package pdftex.def Info: figure/sys_overview.png used on input line 7.
@@ -394,35 +394,56 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has be
                    \relax 
 l.1 \section{System Details}
                              [2 <C:/Users/Administrator/Documents/MSIT-IS/18-644 Mobile HW/18644_Final_Report/figure/alp
-r.jpg> <C:/Users/Administrator/Documents/MSIT-IS/18-644 Mobile HW/18644_Final_Report/figure/sys_overview.png>])
-("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\sec_evaluation.tex")
+r.jpg> <C:/Users/Administrator/Documents/MSIT-IS/18-644 Mobile HW/18644_Final_Report/figure/sys_overview.png>]
+<figure/sys_detail_search.png, id=71, 216.81pt x 215.30438pt>
+File: figure/sys_detail_search.png Graphic file (type png)
+ <use figure/sys_detail_search.png>
+Package pdftex.def Info: figure/sys_detail_search.png used on input line 9.
+(pdftex.def)             Requested size: 216.81pt x 215.31369pt.
+
+<figure/sys_detail_permit.png, id=74, 366.61969pt x 126.4725pt>
+File: figure/sys_detail_permit.png Graphic file (type png)
+ <use figure/sys_detail_permit.png>
+Package pdftex.def Info: figure/sys_detail_permit.png used on input line 18.
+(pdftex.def)             Requested size: 216.81pt x 74.79373pt.
+
+<figure/sys_detail_flow_chart.png, id=75, 273.27094pt x 262.73157pt>
+File: figure/sys_detail_flow_chart.png Graphic file (type png)
+ <use figure/sys_detail_flow_chart.png>
+Package pdftex.def Info: figure/sys_detail_flow_chart.png used on input line 30.
+(pdftex.def)             Requested size: 216.81pt x 208.44965pt.
+)
+("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\sec_evaluation.tex"pdfTeX warning (ext4):
+ destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \section
+            {Evaluation} [3 <C:/Users/Administrator/Documents/MSIT-IS/18-644 Mobile HW/18644_Final_Report/figure/sys_det
+ail_search.png> <C:/Users/Administrator/Documents/MSIT-IS/18-644 Mobile HW/18644_Final_Report/figure/sys_detail_permit.p
+ng> <C:/Users/Administrator/Documents/MSIT-IS/18-644 Mobile HW/18644_Final_Report/figure/sys_detail_flow_chart.png>])
 ("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\sec_conclusion.tex")
 ("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\bpm_mobile_hw.bbl")
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 63.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.70 \end{document}
-                    [3
+l.63 \end{document}
+                    [4
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 63.
  ("C:\Users\Administrator\Documents\MSIT-IS\18-644 Mobile HW\18644_Final_Report\bpm_mobile_hw.aux")
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 70.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 63.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 63.
 Package rerunfilecheck Info: File `bpm_mobile_hw.out' has not changed.
-(rerunfilecheck)             Checksum: E7EFA6823ADFD254991E5E18478E2D63;335.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
+(rerunfilecheck)             Checksum: 96DEB4662E0949927F1673FB7896D986;488.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 63.
  ) 
 Here is how much of TeX's memory you used:
- 6086 strings out of 494045
- 86801 string characters out of 3148362
- 172889 words of memory out of 3000000
- 9271 multiletter control sequences out of 15000+200000
+ 6111 strings out of 494045
+ 87404 string characters out of 3148362
+ 173295 words of memory out of 3000000
+ 9288 multiletter control sequences out of 15000+200000
  45503 words of font info for 56 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  41i,10n,29p,1140b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -430,9 +451,9 @@ Here is how much of TeX's memory you used:
 cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on bpm_mobile_hw.pdf (3 pages, 177523 bytes).
+Output written on bpm_mobile_hw.pdf (4 pages, 259434 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 67 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 114 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 
