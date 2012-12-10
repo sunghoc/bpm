@@ -2,8 +2,8 @@
 
 \bibitem{btcycle}
 Android developers guide.
-\newblock
-  http://developer.android.com/guide/topics/connectivity/bluetooth.html.
+\newblock http://developer.android.com/guide/topics/connect
+  ivity/bluetooth.html.
 
 \bibitem{alpr}
 Automatic license plate recognition.
@@ -15,10 +15,12 @@ License plate recognition.
 
 \bibitem{national}
 Parking in perspective: The size and scope of parking in america.
-\newblock http://www.npapark.org/.
+\newblock
+  http://www.npapark.org/pdfs/NPA-Size\_of\_Market\_Size\_of\_the\_United\_States\_Parking
+  \_Market\_Final\_5-24-11.pdf.
 
 \bibitem{ibisworld}
 Parking lots and garages in the us: Market research report.
-\newblock http://www.ibisworld.com/.
+\newblock http://www.ibisworld.com/industry/default.aspx?in did=1739.
 
 \end{thebibliography}
