@@ -1,5 +1,10 @@
 \begin{thebibliography}{1}
 
+\bibitem{btcycle}
+Android developers guide.
+\newblock
+  http://developer.android.com/guide/topics/connectivity/bluetooth.html.
+
 \bibitem{alpr}
 Automatic license plate recognition.
 \newblock http://www.motorola.com/ALPR.

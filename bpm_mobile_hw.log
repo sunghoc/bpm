@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  9 DEC 2012 21:36
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 DEC 2012 02:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -317,36 +317,68 @@ LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
 (/usr/local/texlive/2012/texmf-dist/tex/latex/ae/t1aer.fd
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 )))
-(./bpm_mobile_hw.aux)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2012/01/12 v1.1d Sub-captions (AR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2012/02/19 v3.2f Customizing captions (AR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
+\captionmargin=\dimen126
+\captionmargin@=\dimen127
+\captionwidth=\dimen128
+\caption@indent=\dimen129
+\caption@parindent=\dimen130
+\caption@hangindent=\dimen131
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2-> \vskip 10pt \setbox \@
+tempboxa \hbox {\textbf {#1: #2}} \ifdim \wd \@tempboxa >\hsize \textbf {#1: #2
+}\par \else \hbox to\hsize {\hfil \box \@tempboxa \hfil } \fi .
+\c@ContinuedFloat=\count118
+Package caption Info: hyperref package is loaded.
+)
+\c@subfigure=\count119
+\c@subtable=\count120
+) (./bpm_mobile_hw.aux)
 \openout1 = `bpm_mobile_hw.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
 
 (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count118
-\scratchdimen=\dimen126
+\scratchcounter=\count121
+\scratchdimen=\dimen132
 \scratchbox=\box30
-\nofMPsegments=\count119
-\nofMParguments=\count120
+\nofMPsegments=\count122
+\nofMParguments=\count123
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count121
-\MPscratchDim=\dimen127
-\MPnumerator=\count122
-\makeMPintoPDFobject=\count123
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen133
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
 \everyMPtoPDFconversion=\toks37
 ) (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -364,7 +396,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring OFF on input line 3.
+Package hyperref Info: Link coloring OFF on input line 4.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -372,27 +404,29 @@ Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count124
+\c@section@level=\count127
 )
-LaTeX Info: Redefining \ref on input line 3.
-LaTeX Info: Redefining \pageref on input line 3.
-LaTeX Info: Redefining \nameref on input line 3.
+LaTeX Info: Redefining \ref on input line 4.
+LaTeX Info: Redefining \pageref on input line 4.
+LaTeX Info: Redefining \nameref on input line 4.
 
 (./bpm_mobile_hw.out) (./bpm_mobile_hw.out)
 \@outlinefile=\write3
 \openout3 = `bpm_mobile_hw.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 26.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 27.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 26.
+LaTeX Font Info:    Try loading font information for U+msb on input line 27.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 26.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 27.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
@@ -411,21 +445,21 @@ Overfull \hbox (1.04144pt too wide) in paragraph at lines 7--1
 
 
 ]
-<figure/alpr.jpg, id=61, 513.92pt x 373.395pt>
+<figure/alpr.jpg, id=70, 513.92pt x 373.395pt>
 File: figure/alpr.jpg Graphic file (type jpg)
  <use figure/alpr.jpg>
 Package pdftex.def Info: figure/alpr.jpg used on input line 7.
 (pdftex.def)             Requested size: 216.81pt x 157.52562pt.
 )
 (./sec_system_overview.tex
-<figure/sys_overview.png, id=63, 365.86688pt x 235.63031pt>
+<figure/sys_overview.png, id=72, 365.86688pt x 235.63031pt>
 File: figure/sys_overview.png Graphic file (type png)
 
 <use figure/sys_overview.png>
 Package pdftex.def Info: figure/sys_overview.png used on input line 7.
 (pdftex.def)             Requested size: 216.81pt x 139.6319pt.
 ) (./sec_system_details.tex
-Underfull \vbox (badness 1997) has occurred while \output is active []
+Underfull \vbox (badness 3271) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
@@ -433,21 +467,21 @@ een already used, duplicate ignored
                    \relax 
 l.1 \section{System Details}
                              [2 <./figure/alpr.jpg> <./figure/sys_overview.png>
-] <figure/sys_detail_search.png, id=72, 216.81pt x 215.30438pt>
+] <figure/sys_detail_search.png, id=80, 216.81pt x 215.30438pt>
 File: figure/sys_detail_search.png Graphic file (type png)
 
 <use figure/sys_detail_search.png>
 Package pdftex.def Info: figure/sys_detail_search.png used on input line 9.
 (pdftex.def)             Requested size: 216.81pt x 215.31369pt.
 
-<figure/sys_detail_permit.png, id=75, 366.61969pt x 126.4725pt>
+<figure/sys_detail_permit.png, id=83, 366.61969pt x 126.4725pt>
 File: figure/sys_detail_permit.png Graphic file (type png)
 
 <use figure/sys_detail_permit.png>
 Package pdftex.def Info: figure/sys_detail_permit.png used on input line 18.
 (pdftex.def)             Requested size: 216.81pt x 74.79373pt.
 
-<figure/sys_detail_flow_chart.png, id=76, 273.27094pt x 262.73157pt>
+<figure/sys_detail_flow_chart.png, id=84, 273.27094pt x 262.73157pt>
 File: figure/sys_detail_flow_chart.png Graphic file (type png)
 
 <use figure/sys_detail_flow_chart.png>
@@ -460,44 +494,67 @@ ier (name{page.}) has been already used, duplicate ignored
                    \relax 
 l.1 \section
             {Evaluation} [3 <./figure/sys_detail_search.png> <./figure/sys_deta
-il_permit.png> <./figure/sys_detail_flow_chart.png>]) (./sec_conclusion.tex)
-(./bpm_mobile_hw.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
+il_permit.png> <./figure/sys_detail_flow_chart.png>]
+Overfull \hbox (14.73343pt too wide) in paragraph at lines 5--6
+[]\T1/aer/m/n/10 Thus, we per-formed ex-per-i-ments to col-lect sig-nal strengt
+h
+ []
+
+<figure/bt_first_car.png, id=94, 362.7954pt x 217.7736pt>
+File: figure/bt_first_car.png Graphic file (type png)
+
+<use figure/bt_first_car.png>
+Package pdftex.def Info: figure/bt_first_car.png used on input line 13.
+(pdftex.def)             Requested size: 108.405pt x 65.07005pt.
+
+<figure/bt_second_car.png, id=95, 362.7954pt x 217.7736pt>
+File: figure/bt_second_car.png Graphic file (type png)
+
+<use figure/bt_second_car.png>
+Package pdftex.def Info: figure/bt_second_car.png used on input line 19.
+(pdftex.def)             Requested size: 108.405pt x 65.07005pt.
+) (./sec_conclusion.tex) (./bpm_mobile_hw.bbl
+Overfull \hbox (93.03017pt too wide) in paragraph at lines 4--7
+\T1/aer/m/n/10 http://developer.android.com/guide/topics/connectivity/bluetooth
+.html.  
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.70 \end{document}
-                    [4
-
+l.71 \end{document}
+                    [4 <./figure/bt_first_car.png> <./figure/bt_second_car.png>
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
  (./bpm_mobile_hw.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 70.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 71.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
 Package rerunfilecheck Info: File `bpm_mobile_hw.out' has not changed.
-(rerunfilecheck)             Checksum: 600000920795DFC9A663049775C8C322;479.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
+(rerunfilecheck)             Checksum: 318E2E661B1B9DB14DDE9664E0E39ED4;621.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
  ) 
 Here is how much of TeX's memory you used:
- 6224 strings out of 493488
- 88153 string characters out of 3141326
- 175855 words of memory out of 3000000
- 9406 multiletter control sequences out of 15000+200000
- 45503 words of font info for 56 fonts, out of 3000000 for 9000
+ 7279 strings out of 493488
+ 107391 string characters out of 3141326
+ 198359 words of memory out of 3000000
+ 10445 multiletter control sequences out of 15000+200000
+ 45421 words of font info for 56 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,10n,29p,1140b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,10n,40p,1140b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/te
-xlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
-ive/2012/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/201
-2/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2012/texmf
--dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/font
-s/type1/urw/times/utmr8a.pfb>
-Output written on bpm_mobile_hw.pdf (4 pages, 249659 bytes).
+exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
+live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texliv
+e/2012/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/
+texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2012/texmf-d
+ist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/
+type1/urw/times/utmr8a.pfb>
+Output written on bpm_mobile_hw.pdf (4 pages, 290598 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 97 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
- 98 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 135 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 124 words of extra memory for PDF output out of 10000 (max. 10000000)
 
